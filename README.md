@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Kafil Aslam 👋
 
 ### AI / ML Engineer · Machine Learning · Generative AI
@@ -46,11 +45,11 @@ The project goes beyond model training and implements a complete workflow includ
 **Tech:**
 `Python` `Scikit-learn` `XGBoost` `FastAPI` `Streamlit` `SHAP` `MLflow` `Docker`
 
-🔗 **[Repository](YOUR_REPOSITORY_LINK)**
+🔗 **[Repository](https://github.com/Kafil-Aslam-13/credit-card-fraud-detection)**
 
 ---
 
-### ❤️ Heart Disease Detection
+### ❤️ Heart Disease Detection     🌐 **[Live Demo](https://heart-disease-detection-12.streamlit.app/)**
 
 **End-to-End Machine Learning Application**
 
@@ -59,24 +58,8 @@ A complete ML application for heart disease prediction with a modular training p
 **Tech:**
 `Python` `Scikit-learn` `FastAPI` `Streamlit` `Docker`
 
-🔗 **[Repository](YOUR_REPOSITORY_LINK)**
+🔗 **[Repository](https://github.com/Kafil-Aslam-13/heart-disease-detection)**
 
----
-
-### 🌍 AI-Powered Disaster Command Center
-
-**AI · ML · GIS · MLOps**
-
-A larger-scale AI/ML project focused on combining **machine learning, geospatial intelligence, backend services, and MLOps** to support disaster management and decision-making.
-
-The project explores production-oriented concepts such as **modular architecture, microservices, DDD, system design, and AI/ML pipelines**.
-
-**Tech:**
-`Python` `Machine Learning` `GIS` `MLOps` `Microservices`
-
-🔗 **[Repository](YOUR_REPOSITORY_LINK)**
-
----
 
 ## 🌱 Currently Learning
 
@@ -113,9 +96,9 @@ I'm particularly interested in understanding **how to build reliable AI systems*
 
 I'm always interested in **AI/ML, Generative AI, Agentic AI, MLOps, and real-world AI applications**.
 
-📧 **Email:** YOUR_EMAIL
-💼 **LinkedIn:** YOUR_LINKEDIN
-🐙 **GitHub:** YOUR_GITHUB_USERNAME
+📧 **Email:** aslamkafil13@gmail.com
+💼 **LinkedIn:** (https://www.linkedin.com/in/kafil-aslam-69a880228/)
+🐙 **GitHub:** (https://github.com/Kafil-Aslam-13)
 
 ---
 
