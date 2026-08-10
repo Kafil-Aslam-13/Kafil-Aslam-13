@@ -86,8 +86,8 @@ I'm particularly interested in understanding **how to build reliable AI systems*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Kafil-Aslam-13&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Kafil-Aslam-13&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -97,8 +97,10 @@ I'm particularly interested in understanding **how to build reliable AI systems*
 I'm always interested in **AI/ML, Generative AI, Agentic AI, MLOps, and real-world AI applications**.
 
 📧 **Email:** aslamkafil13@gmail.com
-💼 **LinkedIn:** (https://www.linkedin.com/in/kafil-aslam-69a880228/)
-🐙 **GitHub:** (https://github.com/Kafil-Aslam-13)
+
+💼 **LinkedIn:** [Kafil-Aslam](https://www.linkedin.com/in/kafil-aslam-69a880228/)
+
+🐙 **GitHub:** [Kafil-Aslam-13](https://github.com/Kafil-Aslam-13)
 
 ---
 
