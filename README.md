@@ -81,16 +81,6 @@ I'm particularly interested in understanding **how to build reliable AI systems*
 * 🔍 Model & LLM Evaluation
 * 🛡️ AI Guardrails & Reliability
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Kafil-Aslam-13&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Kafil-Aslam-13&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
